@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# packaging
+build/
+dist/
+*.egg-info/
+
+# virtual env
+.venv/
+venv/
+env/
+
+# notebooks
+.ipynb_checkpoints/
+
+# test / cache
+.pytest_cache/
+.mypy_cache/
