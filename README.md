@@ -1,6 +1,6 @@
 # QTensor
 
-A tensor network package based on JAX. 
+A tensor network package based on JAX. This package automatically supports automatic differentiation. 
 
 ## Installation
 
